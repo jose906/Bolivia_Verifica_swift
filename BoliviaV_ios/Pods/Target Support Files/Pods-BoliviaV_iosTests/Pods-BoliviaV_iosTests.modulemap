@@ -1,0 +1,6 @@
+framework module Pods_BoliviaV_iosTests {
+  umbrella header "Pods-BoliviaV_iosTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
